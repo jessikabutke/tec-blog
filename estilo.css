@@ -1,0 +1,96 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(223, 223, 223);
+}
+
+#topo {
+    background-color: rgb(252, 199, 23);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#menu {
+    padding: 20px;
+    font-size: 18px;
+}
+
+#conteudo {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(223, 223, 223);
+}
+
+#postagens {
+    background-color: white;
+    padding: 20px;
+    width: 650px;
+    margin-bottom: 10px;
+}
+
+#rodape {
+    background-color: rgb(185, 185, 185);
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#area-lateral {
+    background-color: rgb(223, 223, 223);
+    float: right;
+    width: 350px;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a.sup:link, a.sup:visited {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+a.sup:hover {
+    background-color: white;
+    color:rgb(252, 199, 23);
+}
+
+a.lat:link, a.lat:visited {
+    color: rgb(252, 199, 23);
+    text-decoration: none;
+    display: block;
+    padding: 2px;
+}
+
+.titulo {
+    display: inline;
+    font-size: 50px;
+}
+
+.lateral {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: rgb(252, 199, 23)
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(223, 223, 223);
+    padding: 5px;
+}
+
+h5 {
+    margin-top: 0px;
+}
+
+
